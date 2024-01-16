@@ -10,7 +10,7 @@ import { api } from "@/convex/_generated/api";
 import { cn } from "@/lib/utils";
 
 
-import { Item } from './item';
+import { Item } from './Item';
 
 
 interface DocumentListProps {

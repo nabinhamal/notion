@@ -26,10 +26,10 @@ import { useSearch } from "@/hooks/use-search";
 import { useSettings } from "@/hooks/use-settings";
 
 import { UserItem } from "./user-item";
-import { Item } from "./item";
 import { DocumentList } from "./document-list";
 import { TrashBox } from "./trash-box";
 import { Navbar } from "./navbar";
+import { Item } from "./Item";
 
 export const Navigation = () => {
   const router = useRouter();
